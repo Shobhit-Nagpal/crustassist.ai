@@ -1,5 +1,5 @@
 {
-  "name": "@repo/ui",
+  "name": "@crustassistant/ui",
   "version": "0.0.0",
   "type": "module",
   "private": true,
@@ -14,8 +14,8 @@
     "check-types": "tsc --noEmit"
   },
   "devDependencies": {
-    "@repo/eslint-config": "workspace:*",
-    "@repo/typescript-config": "workspace:*",
+    "@crustassistant/eslint-config": "workspace:*",
+    "@crustassistant/typescript-config": "workspace:*",
     "@turbo/gen": "^1.12.4",
     "@types/node": "^20.11.24",
     "@types/react": "18.3.0",
